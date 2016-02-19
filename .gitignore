@@ -8,6 +8,8 @@
 /.bundle
 
 /.idea
+/public
+/vendor
 # Ignore all logfiles and tempfiles.
 /log/*
 !/log/.keep
