@@ -17,7 +17,6 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 gem 'therubyracer', platforms: :ruby
 gem 'autoprefixer-rails'
-gem 'material_icons'
 gem "font-awesome-rails"
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
